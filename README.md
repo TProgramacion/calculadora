@@ -16,4 +16,12 @@ Fundamentos de Programación (DAW).
 - Entorno: Visual Studio Code
 
 ## Ejecución
-1. Clonar el repositorio:
+1. Clonar el repositorio.
+2. Abrir el proyecto en Visual Studio Code.
+3. Compilar y ejecutar.
+
+## 👤 Autor
+- Tania Oya
+
+## 📄 Licencia
+- Este proyecto está bajo la licencia MIT.
