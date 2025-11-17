@@ -20,8 +20,5 @@ Fundamentos de Programación (DAW).
 2. Abrir el proyecto en Visual Studio Code.
 3. Compilar y ejecutar.
 
-## 👤 Autor
-- Tania Oya
-
-## 📄 Licencia
+## Licencia
 - Este proyecto está bajo la licencia MIT.
